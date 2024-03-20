@@ -33,6 +33,7 @@ main {
 
 .mensagem {
     background: #f6f6f6;
+    background-image: url(imagem/Avatar.png);
     background-repeat: no-repeat;
     border: none;
     border-radius: 24px;
